@@ -1,0 +1,23 @@
+{
+  "name": "simple-dockerized-http-server",
+  "version": "1.0.0",
+  "description": "Simple Node HTTP server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rulo180/Simple-Dockerized-HTTP-server.git"
+  },
+  "author": "Rulo180",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rulo180/Simple-Dockerized-HTTP-server/issues"
+  },
+  "homepage": "https://github.com/Rulo180/Simple-Dockerized-HTTP-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
